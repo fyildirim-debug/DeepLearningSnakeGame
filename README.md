@@ -2,8 +2,6 @@
 
 This project is an experiment bringing the classic snake game together with artificial intelligence. Using the Stable Baselines3 library and the DQN (Deep Q-Network) algorithm, the snake learns over time to eat food and avoid obstacles.
 
-![Game Screenshot](placeholder.png) <!-- A real screenshot can be added later -->
-
 ## Features
 
 *   **Classic Snake Mechanics:** Grow by eating food, avoid collisions with walls and self.
