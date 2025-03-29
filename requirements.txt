@@ -1,0 +1,2 @@
+pygame
+stable-baselines3[extra] 
